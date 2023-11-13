@@ -7,3 +7,9 @@ p{
     font-size: 18px;
     color: pink;
 }
+
+#texto2{
+    color: green;
+    font-size: 26px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

@@ -1,0 +1,12 @@
+body{
+    font-size: 30px;
+}
+#especial{
+    font-size: 2em;
+    font-family: Agbalumo;
+}
+.key{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
